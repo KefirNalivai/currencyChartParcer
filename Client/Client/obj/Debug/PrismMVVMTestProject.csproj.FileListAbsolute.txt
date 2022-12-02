@@ -1,0 +1,269 @@
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.exe.config
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.exe
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.pdb
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Unity.Wpf.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Wpf.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\System.Windows.Interactivity.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.xml
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Unity.Wpf.xml
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Wpf.xml
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csprojResolveAssemblyReference.cache
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\MainWindow.g.cs
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\Views\TestView.g.cs
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\App.g.cs
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject_MarkupCompile.cache
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject_MarkupCompile.lref
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\MainWindow.baml
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\Views\TestView.baml
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.g.resources
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.Properties.Resources.resources
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csproj.GenerateResource.Cache
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.exe
+D:\Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.pdb
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.exe.config
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.exe
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.pdb
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.exe
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.pdb
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Unity.Wpf.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Wpf.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\System.Windows.Interactivity.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.xml
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.xml
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Unity.Wpf.xml
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Wpf.xml
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csprojResolveAssemblyReference.cache
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\MainWindow.g.cs
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\Views\TestView.g.cs
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\App.g.cs
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject_MarkupCompile.cache
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject_MarkupCompile.lref
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\MainWindow.baml
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\Views\TestView.baml
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.g.resources
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.Properties.Resources.resources
+D:\DataBase\ \Articles\Rough\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csproj.GenerateResource.Cache
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.exe.config
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.exe
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.pdb
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.exe
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.pdb
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Unity.Wpf.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Wpf.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\System.Windows.Interactivity.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.xml
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Unity.Wpf.xml
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Wpf.xml
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csprojResolveAssemblyReference.cache
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\MainWindow.g.cs
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\Views\TestView.g.cs
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\App.g.cs
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject_MarkupCompile.cache
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject_MarkupCompile.lref
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\MainWindow.baml
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\Views\TestView.baml
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.g.resources
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.Properties.Resources.resources
+D:\Projects\test Projects\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csproj.GenerateResource.Cache
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.exe.config
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.exe
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.pdb
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Unity.Wpf.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Wpf.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.xml
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Unity.Wpf.xml
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Wpf.xml
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csproj.AssemblyReference.cache
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\MainWindow.g.cs
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\Views\TestView.g.cs
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\App.g.cs
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject_MarkupCompile.cache
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject_MarkupCompile.lref
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\MainWindow.baml
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\Views\TestView.baml
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.g.resources
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.Properties.Resources.resources
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csproj.GenerateResource.cache
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csproj.CoreCompileInputs.cache
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csproj.CopyComplete
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.exe
+D:\Opera\Dowloads\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.pdb
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.exe.config
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.exe
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.pdb
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Wpf.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.xml
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Prism.Wpf.xml
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\MainWindow.g.cs
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\Views\TestView.g.cs
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\App.g.cs
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject_MarkupCompile.cache
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject_MarkupCompile.lref
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\MainWindow.baml
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\Views\TestView.baml
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.g.resources
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.Properties.Resources.resources
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csproj.CopyComplete
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.exe
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.pdb
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikita\Desktop\PrismMVVMTestProject\PrismMVVMTestProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.exe.config
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.exe
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\PrismMVVMTestProject.pdb
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Prism.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Prism.Wpf.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Prism.xml
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\Prism.Wpf.xml
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\obj\Debug\MainWindow.g.cs
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\obj\Debug\Views\TestView.g.cs
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\obj\Debug\App.g.cs
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject_MarkupCompile.cache
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject_MarkupCompile.lref
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\obj\Debug\MainWindow.baml
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\obj\Debug\Views\TestView.baml
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.g.resources
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.Properties.Resources.resources
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.csproj.CopyComplete
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.exe
+C:\Users\Nikita\Desktop\ValuteParcer\Client\PrismMVVMTestProject\obj\Debug\PrismMVVMTestProject.pdb
