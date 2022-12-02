@@ -1,0 +1,94 @@
+C:\Users\Nikita\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nikita\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nikita\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\Nikita\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\Nikita\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\Nikita\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Nikita\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Nikita\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Nikita\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nikita\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Nikita\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Nikita\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Nikita\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Nikita\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Nikita\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Nikita\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1\bin\Debug\netcoreapp3.1\qwe.json
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\bin\Debug\netcoreapp3.1\qwe.json
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Nikita\Desktop\textcode\Test\WebApplication1 — копия\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\ValuteParcer\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nikita\Desktop\ValuteParcer\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nikita\Desktop\ValuteParcer\Server\bin\Debug\netcoreapp3.1\qwe.json
+C:\Users\Nikita\Desktop\ValuteParcer\Server\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\Nikita\Desktop\ValuteParcer\Server\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\Nikita\Desktop\ValuteParcer\Server\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\Nikita\Desktop\ValuteParcer\Server\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Nikita\Desktop\ValuteParcer\Server\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Server\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Nikita\Desktop\ValuteParcer\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Server\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\ValuteParcer\Server\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\ValuteParcer\Server\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\ValuteParcer\Server\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\ValuteParcer\Server\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\ValuteParcer\Server\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nikita\Desktop\ValuteParcer\Server\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Nikita\Desktop\ValuteParcer\Server\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Nikita\Desktop\ValuteParcer\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Nikita\Desktop\ValuteParcer\Server\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Nikita\Desktop\ValuteParcer\Server\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\Nikita\Desktop\ValuteParcer\Server\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Nikita\Desktop\ValuteParcer\Server\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Nikita\Desktop\ValuteParcer\Server\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\ValuteParcer\Server\bin\Debug\netcoreapp3.1\packages\Prism.Unity.6.1.1\lib\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Prism.Unity.Forms.dll.config
